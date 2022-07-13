@@ -56,7 +56,7 @@ Leveling up swimfins, goggles, and snorkel
 Ability upgrade
 
 Tokenomics
-The initial supply of SET is 10,000,000. There are 100,000 SET minted per 24 hours for staking pools. JUMPN members have the right to vote for daily output of SET one week after SWIMN farm released.
+The initial supply of SET is 10,000,000. There are 100,000 SET minted per 24 hours for staking pools. SWIMN members have the right to vote for daily output of SET one week after SWIMN farm released.
 
 SWN 
 Tokenomics
@@ -82,5 +82,5 @@ Social and Community
 SWIMN aims to build a solid social community with people around the world. Social-Fi DAO will be grouped by players. The community will poll for future decisions. Such as organizing swimming competitions. More details will be revealed in the future.
 
 
-Official Group: https://t.me/SWIMNOFFICAL 
+Official Group: https://t.me/SWIMNOFFICAL
 
